@@ -36,20 +36,15 @@
 - **clear**: clear console
 
 ## NPM (Node Package Manager) Basics 
-- **node -- version**
-*check node version*
+**node -- version**, check node version
 
-- **npm init**
-*creates a package.json (manifest) file, list of dependencies*
+**npm init**, Creates a package.json (manifest) file, list of dependencies
 
-- **npm install <package name> --save**
-*install package locally (default) and add to package.json in the project* 
+**npm install <package name> --save**, Installs package locally (default) and add to package.json in the project
 
-**npm install <package name> -g**
-*install package globally (access anywhere) SUDO*
+**npm install <package name> -g**, Installs package globally (access anywhere) SUDO
 
-**npm intall <package name> - - save -dev**\
-*use it only in development (ie. Testing)*  
+**npm intall <package name> - - save -dev**, Use it only in development (ie. Testing)
 
 
 
@@ -58,14 +53,10 @@
     
 - **cd (file name)**
     
-- **npm start**
-*stars the development server* [What is a local host?](https://www.hostinger.com/tutorials/what-is-localhost)
+- **npm start**, Stars the development server* [What is a local host?](https://www.hostinger.com/tutorials/what-is-localhost)
     
-- **npm run build** 
-*Bundles the app into static files for production*
+- **npm run build**, Bundles the app into static files for production
 
-- **npm run test** 
-*starts the test runner*
+- **npm run test**, Starts the test runner
 
-- **npm run eject** 
-*Removes this tool and copies build dependencies configuration files and scripts into the app directory. If you do this, you can’t go back.*
+- **npm run eject**, Removes this tool and copies build dependencies configuration files and scripts into the app directory. If you do this, you can’t go back.
