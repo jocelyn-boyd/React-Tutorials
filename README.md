@@ -27,31 +27,31 @@
     - covers React specific JavaScript topics
     
 ## Useful Terminal Commands 
-- **pwd**: full pathname to current working directory
-- **ls**: list of directories
-- **ls -a**: to see the list of directories including the hidden ones 
-- **mkdir**: create a new directory/ folder 
-- **cd**:  change directory 
-- **cd ..:** navigate to parent/ one level up
-- **clear**: clear console
+- **pwd**, full pathname to current working directory
+- **ls**, list of directories
+- **ls -a**, to see the list of directories including the hidden ones 
+- **mkdir**, create a new directory/ folder 
+- **cd**,  change directory 
+- **cd ..** ,  navigate to parent/ one level up
+- **clear**, clear console
 
 ## NPM (Node Package Manager) Basics 
-**node -- version**, check node version
+- **node -- version**, check node version
 
-**npm init**, Creates a package.json (manifest) file, list of dependencies
+- **npm init**, Creates a package.json (manifest) file, list of dependencies
 
-**npm install <package name> --save**, Installs package locally (default) and add to package.json in the project
+- **npm install <package name> --save**, Installs package locally (default) and add to package.json in the project
 
-**npm install <package name> -g**, Installs package globally (access anywhere) SUDO
+- **npm install <package name> -g**, Installs package globally (access anywhere) SUDO
 
-**npm intall <package name> - - save -dev**, Use it only in development (ie. Testing)
+- **npm intall <package name> - - save -dev**, Use it only in development (ie. Testing)
 
 
 
 ## [Create-React-App](https://github.com/john-smilga/react-basics-2020)
 - **npx create-react-app <file name>**
     
-- **cd (file name)**
+- **cd (file name)**, Change directory (file name)
     
 - **npm start**, Stars the development server* [What is a local host?](https://www.hostinger.com/tutorials/what-is-localhost)
     
