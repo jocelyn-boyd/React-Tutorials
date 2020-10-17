@@ -1,5 +1,6 @@
 # React-Tutorial Notes
 [Full React Course 2020](https://www.youtube.com/watch?v=4UZrsTqkcW4) @ freecodecamp.org 
+[Tutorial: Intro to React](https://reactjs.org/tutorial/tutorial.html#completing-the-game)
 
 ## About
 - An open-source JavaScript library for building UI
